@@ -35,6 +35,7 @@ int teamGoals(const std::vector<Player>& team) {
     return total;
 }
 
+
 int main() {
     std::vector<Player> team;
     int choice = 0;
